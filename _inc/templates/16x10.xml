@@ -25,7 +25,7 @@
          <text name="systemInfo">
             <backgroundColor>1c1c1cdd</backgroundColor>
             <color>777777</color>
-            <fontPath>./../fonts/Cabin-Bold-TTF.ttf</fontPath>
+            <fontPath>./../fonts/OpenSans-Regular.ttf</fontPath>
          </text>
       </view>
    </feature>
@@ -43,7 +43,7 @@
          <selectedColor>bba358</selectedColor>
          <primaryColor>eaeaea</primaryColor>
          <secondaryColor>eaeaea</secondaryColor>
-         <fontPath>./../fonts/Cabin-Bold-TTF.ttf</fontPath>
+         <fontPath>./../fonts/OpenSans-Regular.ttf</fontPath>
          <fontSize>0.03375</fontSize>
          <forceUppercase>1</forceUppercase>
          <scrollSound>./../sounds/select.wav</scrollSound>
