@@ -60,7 +60,7 @@
       </datetime>
       <text name="md_description,md_lastplayed,md_lbl_lastplayed,md_lbl_players,md_players,md_releasedate,md_genre">
          <color>555555</color>
-         <fontPath>./../fonts/Cabin-Bold-TTF.ttf</fontPath>
+         <fontPath>./../fonts/OpenSans-Regular.ttf</fontPath>
          <fontSize>0.0222222222222222</fontSize>
       </text>
 
