@@ -1,5 +1,5 @@
-# CRT-OSMC, an EmulationStation theme with video support
-A simple theme for Emulation Station and RetroPie with support for the video view added by fieldofcows. Originally based on the Carbon theme by Eric Hettervik; and then rebuilt from scratch. Forked for aesthetic changes to match OSMC. Discussion ongoing in this thread: https://retropie.org.uk/forum/topic/7022/new-theme-crt-with-support-for-video-preview
+# RetrOSMC, an EmulationStation theme with video support
+A simple theme for Emulation Station and RetroPie with support for the video view added by fieldofcows. A reskin of the CRT theme by Anthony Caccese, with system art from the art-book theme by Anthony Caccese, based on the Carbon theme by Eric Hettervik.
 
 ## Details
 
