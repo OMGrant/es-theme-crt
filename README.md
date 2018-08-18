@@ -17,3 +17,5 @@ A reskin of the CRT theme by Anthony Caccese, with system art from the art-book 
 - Requires a Pi2/3 (videos are very choppy on a Pi0/1)
 - Install latest version of retropie through the setup script (versions after 4.1.8 work)
 - Add <video> elements to your gamelist to reference videos for each game on your pi (videos can be stored anywhere just like images)
+
+dev.grantgarrison.com
