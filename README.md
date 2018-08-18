@@ -1,4 +1,4 @@
-# RetrOSMC, an EmulationStation theme with video support
+# RetrOSMC Theme for EmulationStation
 A reskin of the CRT theme by Anthony Caccese, with system art from the art-book theme by Anthony Caccese, based on the Carbon theme by Eric Hettervik.
 
 ![System Selection](https://i.imgur.com/FYvXm1o.jpg)
