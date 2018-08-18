@@ -1,5 +1,5 @@
 # RetrOSMC, an EmulationStation theme with video support
-A simple theme for Emulation Station and RetroPie with support for the video view added by fieldofcows. A reskin of the CRT theme by Anthony Caccese, with system art from the art-book theme by Anthony Caccese, based on the Carbon theme by Eric Hettervik.
+A reskin of the CRT theme by Anthony Caccese, with system art from the art-book theme by Anthony Caccese, based on the Carbon theme by Eric Hettervik.
 
 ## Details
 
