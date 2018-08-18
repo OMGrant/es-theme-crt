@@ -4,7 +4,8 @@
 
 	<view name="system, basic, detailed, video">
 		<image name="logo">
-			<path>./_inc/retrosmc.png</path>
+			<path>./_inc/system.svg</path>
+			<color>ffffff</color>
 		</image>
 	</view>
 
